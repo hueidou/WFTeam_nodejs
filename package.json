@@ -15,7 +15,7 @@
     "github-markdown-css": "^2.10.0",
     "lodash": "^4.17.11",
     "marked": "^0.5.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "normalize.css": "^8.0.0",
     "register-service-worker": "^1.0.0",
     "vue": "^2.5.17",
