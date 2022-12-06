@@ -17,10 +17,10 @@
     "js-yaml": "^3.3.0",
     "mongoose": "^4.13.17",
     "serve-static": "^1.12.4",
-    "swagger-connect": "^0.1.0"
+    "swagger-connect": "^0.7.0"
   },
   "devDependencies": {
     "should": "^7.1.0",
-    "supertest": "^1.0.0"
+    "supertest": "^6.3.2"
   }
 }
